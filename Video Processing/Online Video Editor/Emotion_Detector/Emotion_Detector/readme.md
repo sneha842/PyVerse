@@ -28,4 +28,4 @@ This project detects human emotions in real-time using a webcam feed. It uses Op
 ```bash
 python face_detect.py
 
-Designed with <3 by Sneha Srivastava
+
